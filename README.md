@@ -59,4 +59,4 @@ A C++ food ordering and farm management system aligned with SDG 2: Zero Hunger.
 
 ---
 
-⭐ To always be learning, always building.
+⭐ To always learning, always building.
